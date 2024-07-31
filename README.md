@@ -1,7 +1,8 @@
 # Sobre mim
 
-Profissional na área de programação e desenvolvedor Web com foco em front-end. 
-Tenho experiência na stack MERN = { MongoDb, Express, React, Node } além de Git, GitHub, Tailwind e ThreeJs. Atualmente realizando projetos práticos para auto aperfeiçoamento, focando em código limpo e boas práticas.
+Profissional na área de programação e desenvolvedor Web Fullstack. 
+Tenho experiência na Stack MERN (MongoDb, Express, React, Node) além de Next, Git, Tailwind e ThreeJs. Atualmente especializando-se em Next.js.
+Portfólio => https://philipe-mello.vercel.app/
 
 ## Tecnologias
 
