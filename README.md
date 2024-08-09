@@ -36,7 +36,7 @@ Portfólio => https://philipe-mello.vercel.app/
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express&svgfill=FFFFFF">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=FFFFFF">
   </a>
   
   <a href="https://github.com/harish-sethuraman/readme-components">
