@@ -28,19 +28,15 @@ Portfólio => https://philipe-mello.vercel.app/
   </a>
   
   <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-  </a>
-  
-  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-  </a>
-  
-  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=cd6799">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=#06B6D4">
   </a>
   
   <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  </a>
+
+  <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express&svgfill=FFFFFF">
   </a>
   
   <a href="https://github.com/harish-sethuraman/readme-components">
