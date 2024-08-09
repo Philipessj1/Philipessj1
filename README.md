@@ -8,7 +8,7 @@ Portfólio => https://philipe-mello.vercel.app/
 
 <p align="left">
   <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&&svgfill=0000">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&&svgfill=FFFFFF">  
   </a>
   
   <a href="https://github.com/harish-sethuraman/readme-components">
