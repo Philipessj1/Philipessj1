@@ -129,7 +129,7 @@ Construir uma aplicação real que evolua desde um ambiente local até uma arqui
 
 ## 📫 Contato
 
-* LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/philipe-da-motta-mello/)
+* LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/philipe-da-motta-mello/)
 * GitHub: github.com/philipessj1
 
 ---
