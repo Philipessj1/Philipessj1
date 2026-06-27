@@ -116,7 +116,9 @@ Construir uma aplicação real que evolua desde um ambiente local até uma arqui
 * [x] Docker Compose
 * [x] SQLAlchemy
 * [x] JWT Authentication
-* [ ] Upload de Arquivos
+* [x] Upload de Arquivos
+* [x] Compartilhamento de Arquivos
+* [x] Versionamento de Arquivos
 * [ ] AWS S3
 * [ ] AWS RDS
 * [ ] CI/CD
@@ -129,7 +131,7 @@ Construir uma aplicação real que evolua desde um ambiente local até uma arqui
 
 ## 📫 Contato
 
-* LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/philipe-da-motta-mello/)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/philipe-da-motta-mello/)
 * GitHub: github.com/philipessj1
 
 ---
